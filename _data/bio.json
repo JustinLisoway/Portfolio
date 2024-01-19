@@ -1,161 +1,118 @@
 {
-	"basics": {
-		"name": "Justin Lisoway",
-		"label": "Student Athlete | UH Manoa",
-		"picture": "https://avatars.githubusercontent.com/u/122566407?v=4",
-		"email": "jlisoway@hawaii.edu",
-		"phone": "808-670-0194",
-		"website": "https://justinlisoway.github.io/",
-		"summary": "I am studying Computer Science, Math, and Finance at the University of Hawaii with an interest in Fintech. Expected graduation: Fall 2024.",
-		"location": {
-			"address": "303 Liliuokalani Ave APT 1102",
-			"postalCode": "96815",
-			"city": "Honolulu",
-			"countryCode": "USA",
-			"region": "Hawaii"
-		},
-		"profiles": [{
-				"network": "github",
-				"username": "JustinLisoway",
-				"url": "https://github.com/JustinLisoway"
-			},
-			{
-				"network": "linkedin",
-				"username": "JustinLisoway",
-				"url": "https://www.linkedin.com/in/justinlisoway/"
-			}
-		]
-	},
-	"interests": [{
-			"name": "Fullstack Software Engineering"
-		},
-		{
-			"name": "Machine Learning"
-		},
-		{
-			"name": "Artificial Intelligence"
-		},
-		{
-			"name": "Financial Technology"
-		},
-		{
-			"name": "Robotics"
-		}
-	],
-	"skills": [{
-			"name": "Languages/Frameworks",
-			"keywords": ["Java", "C", "C++", "Python", "Javascript", "R", "Bootstrap", "React", "Meteor", "Dart/Flutter", "HTML", "CSS", "Mongo", "Firebase", "Git/Github", "Jira"]
-		},
-		{
-			"name": "Certifications",
-			"keywords": ["CFA Level 1", "CFA Level 2 Candidate"]
-		}
-	],
-	"education": [{
-		"institution": "University of Hawaii, Honolulu, HI",
-		"area": "Computer Science (expected Fall, 2024)",
-		"studyType": "Master of Science",
-		"startDate": "2021-09-01",
-		"endDate": "Present",
-		"courses": ["Algorithms", "Human-Computer Interaction", "Brain-Computer Interfaces", "Mobile Application Development", "Advanced Software Quality Assurance", "Data Science", "Advanced Software Engineering", "Program Structure", "Big Data Analytics", "Network Science", "Advanced Artificial Intelligence", "Advanced Program Comprehension"]
-	}, {
-		"institution": "Shidler College of Business, Honolulu, HI",
-		"area": "Finance",
-		"studyType": "Master of Science",
-		"startDate": "2021-09-01",
-		"endDate": "2023-05-01",
-		"courses": []
-	}, {
-		"institution": "Shidler College of Business, Honolulu, HI",
-		"area": "Finance",
-		"studyType": "Bachelor of Business Administration",
-		"startDate": "2019-09-01",
-		"endDate": "2022-05-01",
-		"courses": []
-	}, {
-		"institution": "University of Hawaii, Honolulu, HI",
-		"area": "Mathematics",
-		"studyType": "Minor",
-		"startDate": "2019-09-01",
-		"endDate": "2022-05-01",
-		"courses": ["Differential Equations", "Linear Algebra", "Probability & Statistics", "Abstract Algebra", "Partial Differentail Equations"]
-	}],
-	"work": [{
-			"company": "Bank Of Hawaii",
-			"position": "Commercial Credit Group Summer Intern",
-			"website": "",
-			"startDate": "2022-06-01",
-			"endDate": "2022-08-20",
-			"summary": "Gained exposure to commercial credit issuance and commercial real-estate deals."
-		},
-		{
-			"company": "Bank Of Hawaii",
-			"position": "Digital Banking Student Assistant",
-			"website": "",
-			"startDate": "2021-12-31",
-			"endDate": "2022-05-31",
-			"summary": "Used Jira issue tracking software to provide feedback to project managers in developing digital banking software."
-		}
-	],
-	"volunteer": [ {
-		"organization": "NCAA",
-		"website": "",
-		"position": "SAAC Representative",
-		"startDate": "2020-01-01",
-		"endDate": "Present",
-		"summary": ""
-	}, {
-		"organization": "UH Manoa Athletics",
-		"website": "https://hawaiiathletics.com/sports/mens-swimming-and-diving/roster/justin-lisoway/20220",
-		"position": "NCAA Division 1 Swimmer",
-		"startDate": "2019-01-01",
-		"endDate": "Present",
-		"summary": "",
-		"highlights": [
-			"Team Captain",
-			"Canadian Provinical Records"
-		]
-	}, {
-		"organization": "Elite Swim Camps",
-		"website": "",
-		"position": "Entrepreneuer",
-		"startDate": "2018-01-01",
-		"endDate": "2021-01-01",
-		"summary": "",
-		"highlights": [
-			"Founded Elite Swim Camps business",
-          "Initiated and cultivated long term client relationships",
-          "Managed and delegated responsibility to hired coaches"
-		]
-	}],
-	"awards": [{
-			"title": "Dean's List",
-			"date": "2019 - Present",
-			"awarder": "UH Manoa"
-		},{
-			"title": "Jennifer Matsuda #1 Male Scholar Althete",
-			"date": "2020 - 2023",
-			"awarder": "UH Manoa"
-		},{
-			"title": "Hawaiiana Management Company Dick Gourley Scholarship",
-			"date": "2021",
-			"awarder": "Hawaiiana Management Company"
-		},{
-			"title": "Math Contest Division Champion",
-			"date": "2015 - 2018",
-			"awarder": "Waterloo University"
-		},{
-			"title": "Duke of Edinburg, Gold",
-			"date": "2018",
-			"awarder": "Duke of Edinburg Organization",
-			"summary": "This award recognizes extraordinary community service, pursuit of self-improvement, and adventure. A rigorous 3-4 year minimum program that involves extensive volunteering, skills, activity, adventurous journeys, and residential projects must be completed to be considered for the gold level award."
-		},{
-			"title": "National AP Scholar",
-			"date": "2018",
-			"awarder": "College Board"
-		}
-	],
-	"references": [{
-		"name": "Available upon request"
-	}]
+  "basics": {
+    "name": "Molly Maluhia",
+    "label": "Student",
+    "picture": "https://github.com/kambergjohnson.png",
+    "email": "molly@hawaii.edu",
+    "phone": "808-333-4444",
+    "website": "https://mmaluhia.github.io",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
+    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
+      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
+      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
+      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+    ]
+  },
+  "interests": [
+    { "name": "Interactive media" },
+    { "name": "Neuromorphic Computing" },
+    { "name": "Quantum Computing" },
+    { "name": "Robotics" },
+    { "name": "3D Graphics" }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Science (expected Spring, 2018)",
+      "studyType": "B.S.",
+      "startDate": "2013-09-01",
+      "endDate": "Present",
+      "courses": [
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "UH Manoa Board of Publications",
+      "position": "Web Developer",
+      "website": "",
+      "startDate": "2015-08-01",
+      "endDate": "Present",
+      "summary": "Head of online presence for Ka Leo",
+      "highlights": [
+        "Maintain, update, and oversee official college newspaper website",
+        "Drive, design and build student-community projects for UH Manoa"
+      ]
+    },
+    {
+      "company": "UH Information Technology Services",
+      "position": "Help Desk Consultant",
+      "website": "http://www.hawaii.edu/its/",
+      "startDate": "2015-01-01",
+      "endDate": "2016-03-15",
+      "summary": "",
+      "highlights": [
+        "Troubleshoot software, hardware and networking issues over the phone",
+        "Answer phone and email responses to the ITS Help Desk"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Center for Renewable Energy and Island Sustainability",
+      "website": "http://manoa.hawaii.edu/reis",
+      "position": "Software Developer",
+      "startDate": "2016-01-01",
+      "endDate": "Present",
+      "summary": "Lead developer for weather sensing project",
+      "highlights": [
+        "Design firmware for distributed weather sensor network",
+        "Maintain custom data collection and storage infrastructure"
+      ]
+    },
+    {
+      "organization": "",
+      "website": "",
+      "position": "Professional organization involvement",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        "Chair, ACM Manoa, 2016-Present",
+        "Member, IEEE Student Branch, 2014-Present",
+        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "B+ Scholarship",
+      "date": "2013-Present",
+      "awarder": "State of Hawaii",
+      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+    },
+    {
+      "title": "First place",
+      "date": "2015",
+      "awarder": "University of Hawaii Micromouse Competition",
+      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
 }
