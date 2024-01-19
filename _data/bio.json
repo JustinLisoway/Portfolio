@@ -53,28 +53,28 @@
 	],
 	"education": [{
 		"institution": "University of Hawaii, Honolulu, HI",
-		"area": "Computer Science (expected Fall, 2024)",
+		"area": "Computer Science (current GPA 4.0)",
 		"studyType": "Master of Science",
 		"startDate": "2021-09-01",
 		"endDate": "Present",
 		"courses": ["Algorithms", "Human-Computer Interaction", "Brain-Computer Interfaces", "Mobile Application Development", "Advanced Software Quality Assurance", "Data Science", "Advanced Software Engineering", "Program Structure", "Big Data Analytics", "Network Science", "Advanced Artificial Intelligence", "Advanced Program Comprehension"]
 	}, {
 		"institution": "Shidler College of Business, Honolulu, HI",
-		"area": "Finance",
+		"area": "Finance (GPA 4.0)",
 		"studyType": "Master of Science",
 		"startDate": "2021-09-01",
 		"endDate": "2023-05-01",
 		"courses": []
 	}, {
 		"institution": "Shidler College of Business, Honolulu, HI",
-		"area": "Finance",
+		"area": "Finance (GPA 4.0)",
 		"studyType": "Bachelor of Business Administration",
 		"startDate": "2019-09-01",
 		"endDate": "2022-05-01",
 		"courses": []
 	}, {
 		"institution": "University of Hawaii, Honolulu, HI",
-		"area": "Mathematics",
+		"area": "Mathematics (GPA 4.0)",
 		"studyType": "Minor",
 		"startDate": "2019-09-01",
 		"endDate": "2022-05-01",
