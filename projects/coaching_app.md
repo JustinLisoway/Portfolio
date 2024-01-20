@@ -29,6 +29,13 @@ Throughout the development of this mobile app, I used multiple software engineer
  - agile development
  - integrating user feedback
 
+
+System Architecture:
+
+<div class="text-center p-4">
+  <img width="500px" src="../img/architecture.png" class="img-thumbnail" >
+</div
+  
 The project was completed in approximatley 4 months and included 8 2-week sprints, each dedicated to the completion of 1 of 8 milestones. Each milestone built upon the last and aimed to bring the project one step closer to providing an MVP at the project's end, which satisfied all 3 initial success criteria provided by the client.
 
 The most challenging feature of this project was learning the new technologies required to integrate flutter and firebase in order to properly handle authentication and user roles. However, the process was also extremely rewarding, as I was able to witness firsthand the positive reactions of my client all the way from the initial wireframing to the MVP. I was able to provide the client with a functional app that satisfied his success criteria at minimal cost to the client, and did so in 16 weeks.
