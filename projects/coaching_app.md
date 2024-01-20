@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/coaching_app_logo.jpg
+image: img/coaching_app_logo.png
 title: "Coaching App"
 date: 2023
 published: True
