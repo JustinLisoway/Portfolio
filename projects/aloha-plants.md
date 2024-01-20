@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/logo.png
 title: "Aloha Plants"
-date: 2023
+date: 2022
 published: true
 labels:
   - MongoDB
