@@ -25,10 +25,10 @@ This study explores the accessibility design challenges faced by mobile develope
 
 
 <div class="text-center p-4">
-  <img width="300px" src="../img/method_overview.png" class="img-thumbnail" >
-  <img width="300px" src="../img/RQ1_procedure.png" class="img-thumbnail" >
-  <img width="300px" src="../img/RQ2_procedure.png" class="img-thumbnail" >
-  <img width="300px" src="../img/RQ3_procedure.png" class="img-thumbnail" >
+  <img width="300px" src="../img/method_overview-1.png" class="img-thumbnail" >
+  <img width="300px" src="../img/RQ1_procedure-1.png" class="img-thumbnail" >
+  <img width="300px" src="../img/RQ2_procedure-1.png" class="img-thumbnail" >
+  <img width="300px" src="../img/RQ3_procedure-1.png" class="img-thumbnail" >
 </div>
 
 You can also read the currently unpublished paper [here](../img/CS_691E.pdf).
