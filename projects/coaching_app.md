@@ -33,7 +33,7 @@ Throughout the development of this mobile app, I used multiple software engineer
 System Architecture:
 
 <div class="text-center p-4">
-  <img width="500px" src="../img/architecture.png" class="img-thumbnail" >
+  <img width="650px" src="../img/architecture.png" class="img-thumbnail" >
 </div>
   
 The project was completed in approximatley 4 months and included 8 2-week sprints, each dedicated to the completion of 1 of 8 milestones. Each milestone built upon the last and aimed to bring the project one step closer to providing an MVP at the project's end, which satisfied all 3 initial success criteria provided by the client.
