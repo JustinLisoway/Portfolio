@@ -23,11 +23,12 @@ This study explores the accessibility design challenges faced by mobile develope
 - RQ2: What are the characteristics of mobile accessibility questions?
 - RQ3: What are the challenges associated with mobile accessibility development?
 
+
 <div class="text-center p-4">
-  <img width="300px" src="../img/method_overview.pdf" class="img-thumbnail" >
-  <img width="300px" src="../img/RQ1_procedure.pdf" class="img-thumbnail" >
-  <img width="300px" src="../img/RQ2_procedure.pdf" class="img-thumbnail" >
-  <img width="300px" src="../img/RQ3_procedure.pdf" class="img-thumbnail" >
+  <img width="300px" src="../img/method_overview.png" class="img-thumbnail" >
+  <img width="300px" src="../img/RQ1_procedure.png" class="img-thumbnail" >
+  <img width="300px" src="../img/RQ2_procedure.png" class="img-thumbnail" >
+  <img width="300px" src="../img/RQ3_procedure.png" class="img-thumbnail" >
 </div>
 
-You can also read the complete paper [here](./CS_691E.pdf)).
+You can also read the currently unpublished paper [here](../img/CS_691E.pdf).
