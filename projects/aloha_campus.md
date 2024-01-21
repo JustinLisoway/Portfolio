@@ -6,6 +6,7 @@ title: "Aloha Campus"
 date: 2023
 published: True
 labels:
+  - Fullstack
   - Flutter
   - Dart
   - Mobile App Development
