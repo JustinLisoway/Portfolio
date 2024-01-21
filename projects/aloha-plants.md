@@ -6,6 +6,7 @@ title: "Aloha Plants"
 date: 2022
 published: true
 labels:
+  - Fullstack
   - MongoDB
   - Meteor
   - Web Design
