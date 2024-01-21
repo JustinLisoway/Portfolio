@@ -24,11 +24,24 @@ This study explores the accessibility design challenges faced by mobile develope
 - RQ3: What are the challenges associated with mobile accessibility development?
 
 
+Stack Overflow mining method:
 <div class="text-center p-4">
-  <img width="300px" src="../img/method_overview-1.png" class="img-thumbnail" >
-  <img width="300px" src="../img/RQ1_procedure-1.png" class="img-thumbnail" >
-  <img width="300px" src="../img/RQ2_procedure-1.png" class="img-thumbnail" >
-  <img width="300px" src="../img/RQ3_procedure-1.png" class="img-thumbnail" >
+  <img width="500px" src="../img/method_overview-1.png" class="img-thumbnail" >
+</div>
+
+RQ1 Method:
+<div class="text-center p-4">
+  <img width="500px" src="../img/RQ1_procedure-1.png" class="img-thumbnail" >
+</div>
+
+RQ2 Method:
+<div class="text-center p-4">
+  <img width="500px" src="../img/RQ2_procedure-1.png" class="img-thumbnail" >
+</div>
+
+RQ3 Method:
+<div class="text-center p-4">
+  <img width="500px" src="../img/RQ3_procedure-1.png" class="img-thumbnail" >
 </div>
 
 You can also read the currently unpublished paper [here](../img/CS_691E.pdf).
