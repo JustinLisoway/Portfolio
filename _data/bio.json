@@ -88,6 +88,14 @@
 			"summary": "Founded Kona Kruzers LLC, which provides vacation rental RVs to tourists visiting Oahu. Dedicated time and capital to start and continue to grow the business. Initially responsible for all marketing and client contact, then hired employees to expand the business further."
 		},
 		{
+			"company": "Data Annotation",
+			"position": "AI Trainer",
+			"website": "",
+			"startDate": "2024-01-01",
+			"endDate": "Present",
+			"summary": "Provided prompts for AI code assistants, edited both text based and code responses to increase accuracy, and rated/categorized results to provide data for ML models to learn from. Projects range from general AI code chatbots to specialized Python/language specific chatbots to specialized math-based assistants that use code to generate accurate responses."
+		},
+		{
 			"company": "Bank Of Hawaii",
 			"position": "Commercial Credit Group Summer Intern",
 			"website": "",
@@ -102,31 +110,36 @@
 			"startDate": "2021-12-31",
 			"endDate": "2022-05-31",
 			"summary": "Used Jira issue tracking software to provide feedback to project managers in developing digital banking software. Duties included performing and reporting on Digital Banking product tests in support of product development."
-		}
+		},
+		 {
+		"company": "Elite Swim Camps",
+		"website": "",
+		"position": "Entrepreneuer",
+		"startDate": "2018-01-01",
+		"endDate": "2021-01-01",
+		"summary": "Founded Elite Swim Camps business. Initiated and cultivated long term client relationships. Managed and delegated responsibility to hired coaches.",
+	       },
+		{
+		"company": "Edison School",
+		"website": "",
+		"position": "Math/Calculus Tutor",
+		"startDate": "2018-01-01",
+		"endDate": "2019-05-31",
+		"summary": "Communicated advanced quantitative subjects such that someone with no experience can understand, and developed student’s confidence to succeed in their academic and professional careers.",
+	},
 	],
 	"volunteer": [{
 		"organization": "UH Manoa Athletics",
 		"website": "https://hawaiiathletics.com/sports/mens-swimming-and-diving/roster/justin-lisoway/20220",
 		"position": "NCAA Division 1 Swimmer",
 		"startDate": "2019-01-01",
-		"endDate": "Present",
+		"endDate": "2024-05-31",
 		"summary": "Elected Team Captain by teammates, initiated team events, and led team through season; Demonstrated competitiveness, dedication, and perseverance; Trains 20h/week and swam competitively for over 15 years.",
 		"highlights": [
 			"Team Captain",
 			"2020 & 2024 Olympic Trials",
+			"UH Manoa School Records",
 			"Canadian Provinical Records"
-		]
-	}, {
-		"organization": "Elite Swim Camps",
-		"website": "",
-		"position": "Entrepreneuer",
-		"startDate": "2018-01-01",
-		"endDate": "2021-01-01",
-		"summary": "",
-		"highlights": [
-			"Founded Elite Swim Camps business",
-          "Initiated and cultivated long term client relationships",
-          "Managed and delegated responsibility to hired coaches"
 		]
 	},{
 		"organization": "NCAA",
