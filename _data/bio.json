@@ -1,12 +1,12 @@
 {
 	"basics": {
 		"name": "Justin Lisoway",
-		"label": "Student Athlete | UH Manoa",
+		"label": "Graduate Assistant | UH Manoa",
 		"picture": "https://avatars.githubusercontent.com/u/122566407?v=4",
 		"email": "jlisoway@hawaii.edu",
 		"phone": "808-670-0194",
 		"website": "https://justinlisoway.github.io/",
-		"summary": "I am studying Computer Science, Math, and Finance at the University of Hawaii with a main interest in fullstack development. Expected graduation: Fall 2024.",
+		"summary": "I am studying Computer Science, Finance, and Math at the University of Hawaii with interests in financial technology, personal health, and machine learning. Expected graduation: Fall 2024.",
 		"location": {
 			"address": "303 Liliuokalani Ave APT 1102",
 			"postalCode": "96815",
@@ -33,18 +33,17 @@
 			"name": "Machine Learning"
 		},
 		{
-			"name": "Artificial Intelligence"
-		},
-		{
 			"name": "Financial Technology"
+		},{
+			"name": "Data Science"
 		},
 		{
-			"name": "Robotics"
+			"name": "Optimizing Personal Health"
 		}
 	],
 	"skills": [{
 			"name": "Languages/Frameworks",
-			"keywords": ["Java", "C", "C++", "Python", "Javascript", "R", "Bootstrap", "React", "Meteor", "Dart/Flutter", "HTML", "CSS", "Mongo", "Firebase", "Git/Github", "Jira"]
+			"keywords": ["Java", "C", "C++", "Python", "Javascript", "R", "MATLAB", "LaTeX", "SQL", "Bootstrap", "React", "Meteor", "Dart/Flutter", "HTML", "CSS", "Mongo", "Firebase", "TensorFlow", "Git/Github", "Jira"]
 		},
 		{
 			"name": "Certifications",
@@ -57,14 +56,14 @@
 		"studyType": "Master of Science",
 		"startDate": "2021-09-01",
 		"endDate": "Present",
-		"courses": ["Algorithms", "Human-Computer Interaction", "Brain-Computer Interfaces", "Mobile Application Development", "Advanced Software Quality Assurance", "Data Science", "Advanced Software Engineering", "Program Structure", "Big Data Analytics", "Network Science", "Advanced Artificial Intelligence", "Advanced Program Comprehension"]
+		"courses": ["Algorithms", "Human-Computer Interaction", "Brain-Computer Interfaces", "Mobile Application Development", "Advanced Software Quality Assurance", "Data Science", "Advanced Software Engineering", "Program Structure", "Big Data Analytics", "Network Science", "Advanced Artificial Intelligence", "Advanced Program Comprehension", "Human-Centered AI"]
 	}, {
 		"institution": "Shidler College of Business, Honolulu, HI",
 		"area": "Finance (GPA 4.0)",
 		"studyType": "Master of Science",
 		"startDate": "2021-09-01",
 		"endDate": "2023-05-01",
-		"courses": []
+		"courses": ["International Banking", "Insurance and Risk Management", "Investment Analysis & Mgt", "Financial Analysis & Valuation", "Financial Forecasting", "Financial Derivatives", "Int'l Mon Sys & Global Fin Mkt", "Security Analy & Portfolio Mgt" ]
 	}, {
 		"institution": "Shidler College of Business, Honolulu, HI",
 		"area": "Finance (GPA 4.0)",
