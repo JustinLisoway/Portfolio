@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/stack_overflow.png
-title: "Mobile Accessibility Study"
+title: "Published: Mobile App Accessibility Challenges"
 date: 2024
 published: True
 labels:
