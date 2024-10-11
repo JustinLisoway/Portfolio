@@ -9,7 +9,7 @@ labels:
   - Machine Learning
   - Data Science
   - Computer Vision
-summary: "I collected and preprocessed thousands of images sourced from DermNet of 23 skin diseases, then fine tuned a CNN (convolutional neural network) model to classify any image of a skin condition into 1 of 23 given categories. The model acheived 40% accuracy on the test data."
+summary: "I collected and preprocessed thousands of images sourced from DermNet of 23 skin diseases, then fine-tuned a CNN (convolutional neural network) model to classify any image of a skin condition into 1 of 23 given categories. The model achieved 40% accuracy on the test data."
 ---
 
 Project Infographic:
