@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/aloha_campus_logo.png
-title: "Aloha Campus"
+title: "Aloha Campus: iOS / Android Mobile App"
 date: 2023
 published: True
 labels:
