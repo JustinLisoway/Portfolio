@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/coaching_app_logo.png
-title: "iOS & Android Mobile Coaching App"
+title: "Mobile Coaching App: iOS & Android"
 date: 2023
 published: True
 labels:
