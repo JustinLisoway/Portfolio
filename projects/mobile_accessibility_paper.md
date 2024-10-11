@@ -13,15 +13,15 @@ labels:
 summary: "I co-authored a study on the mobile accessibility challenges faced by mobile app developers on android and iOS devices. We processed thousands of Stack Overflow posts to answer 3 research questions."
 ---
 
-I co-authored a study on the mobile accessibility challenges faced by mobile app developers on android and iOS devices. We mined and processed thousands of Stack Overflow posts to help answer 3 research questions. The bulk of this study took place over 4 months, and we are still working on getting the final paper published. I have provided our abstract and method figures below.
+I co-authored a study on the mobile accessibility challenges faced by mobile app developers on Android and iOS devices. Our research team mined and processed thousands of Stack Overflow posts to answer 3 research questions regarding the state of mobile app accessibility features. The bulk of this study took place over 4 months, after several revisions, the final paper was published in the HICSS conference. Our abstract, method figures, and link to the published paper are provided below.
 
 Abstract:
 
-This study explores the accessibility design challenges faced by mobile developers by analyzing Stack Overflow posts related to the accessibility design of Android and iOS applications. The investigation focuses on three key aspects: factors influencing the growth of mobile accessibility questions, characteristics of such questions, and the challenges inherent in mobile accessibility development. The methods of this study involve exploring the growth in mobile accessibility questions through a per-year analysis, and various statistical measures are employed to delineate their characteristics. Topic modeling techniques, specifically Latent Dirichlet Allocation, were utilized to identify developers’ challenges. Findings revealed a substantial increase in accessibility questions in the early 2010s, potentially attributed to the introduction of laws and regulations, alongside the emergence of new accessibility features like voiceover and talkback. Furthermore, data analysis indicates that accessibility questions typically receive responses within two days and tend to outnumber corresponding answers. Additionally, integrating new accessibility features into mobile applications, particularly in user interface design and the quest for practical solutions to mobile accessibility issues, was identified as a core challenge mobile developers encounter.
+The proliferation of mobile applications (apps) has made it crucial to ensure their accessibility for users with disabilities. However, there is a lack of research on the real-world challenges developers face in implementing mobile accessibility features. This study presents a large-scale empirical analysis of accessibility discussions on Stack Overflow to identify the trends and challenges Android and iOS developers face. We examine the growth patterns, characteristics, and common topics mobile developers discuss. Our results show several challenges, including integrating assistive technologies like screen readers, ensuring accessible UI design, supporting text-to-speech across languages, handling complex gestures, and conducting accessibility testing. We envision our findings driving improvements in developer practices, research directions, tool support, and educational resources.
 
-- RQ1: What are the attributes related to the growth of mobile accessibility questions?
-- RQ2: What are the characteristics of mobile accessibility questions?
-- RQ3: What are the challenges associated with mobile accessibility development?
+- RQ1: How have mobile app accessibility questions on Stack Overflow grown over the years? 
+- RQ2: What are the characteristics of mobile app accessibility questions on Stack Overflow? 
+- RQ3: What are the challenges associated with mobile app accessibility development? 
 
 
 Stack Overflow mining method:
@@ -44,4 +44,4 @@ RQ3 Method:
   <img width="500px" src="../img/RQ3_procedure-1.png" class="img-thumbnail" >
 </div>
 
-You can also read the currently unpublished paper [here](../img/CS_691E.pdf).
+You can also read the currently unpublished paper [here](https://arxiv.org/pdf/2409.07945).
