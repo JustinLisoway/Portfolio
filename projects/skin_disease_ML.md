@@ -2,13 +2,13 @@
 layout: project
 type: project
 image: img/python.png
-title: "ML Skin Disease Classification"
+title: "Machine Learning Skin Disease Classification"
 date: 2023
 published: true
 labels:
   - Machine Learning
-  - Python
   - Data Science
+  - Computer Vision
 summary: "I collected and preprocessed thousands of images sourced from DermNet of 23 skin diseases, then fine tuned a CNN (convolutional neural network) model to classify any image of a skin condition into 1 of 23 given categories. The model acheived 40% accuracy on the test data."
 ---
 
