@@ -44,4 +44,4 @@ RQ3 Method:
   <img width="500px" src="../img/RQ3_procedure-1.png" class="img-thumbnail" >
 </div>
 
-You can also read the currently unpublished paper [here](https://arxiv.org/pdf/2409.07945).
+You can also read the published paper [here](https://arxiv.org/pdf/2409.07945).
