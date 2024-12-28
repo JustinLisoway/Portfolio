@@ -88,14 +88,6 @@
 			"summary": "Founded Kona Kruzers LLC, which provides vacation rental RVs to tourists visiting Oahu. Dedicated time and capital to start and continue to grow the business. Initially responsible for all marketing and client contact, then hired employees to expand the business further."
 		},
 		{
-			"company": "UH Manoa",
-			"position": "Graduate Assistant",
-			"website": "",
-			"startDate": "2024-01-01",
-			"endDate": "2024-12-15",
-			"summary": "Coached, mentored, and otherwise prepared UH Manoa swimmers for their 2024-2025 championship season. Responsibilities included public speaking, writing practices, handling unique professional relationships, resolving human controversy, and exercising leadership qualities."
-		},
-		{
 			"company": "Data Annotation",
 			"position": "AI Trainer",
 			"website": "",
@@ -103,7 +95,14 @@
 			"endDate": "Present",
 			"summary": "Provided prompts for AI code assistants, edited both text based and code responses to increase accuracy, and rated/categorized results to provide data for ML models to learn from. Projects range from general AI code chatbots to specialized Python/language specific chatbots to specialized math-based assistants that use code to generate accurate responses."
 		},
-		
+		{
+			"company": "UH Manoa",
+			"position": "Graduate Assistant",
+			"website": "",
+			"startDate": "2024-01-01",
+			"endDate": "2024-12-15",
+			"summary": "Coached, mentored, and otherwise prepared UH Manoa swimmers for their 2024-2025 championship season. Responsibilities included public speaking, writing practices, handling unique professional relationships, resolving human controversy, and exercising leadership qualities."
+		},
 		{
 			"company": "Bank Of Hawaii",
 			"position": "Commercial Credit Group Summer Intern",
