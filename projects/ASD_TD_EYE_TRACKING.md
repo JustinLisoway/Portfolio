@@ -1,16 +1,16 @@
 ---
 layout: project
 type: project
-image: img/stack_overflow.png
+image: img/Deep_Learning.png
 title: "Pre-Print: Eye-Tracking Deep Learning"
 date: 2024
-published: False
+published: True
 labels:
   - Research
-  - Software Quality
-  - Mobile App Development
-  - Stack Overflow
-summary: "I co-authored a study on the mobile accessibility challenges faced by mobile app developers on android and iOS devices. We processed thousands of Stack Overflow posts to answer 3 research questions."
+  - Deep Learning
+  - Human-Centered AI
+  - Autism
+summary: "I am the first author for a paper that will be published about my research exploring the relative efficancy of deep learning and feature engineering on differentiating autism spectrum disorder (ASD) and typically developing (TD) participants based on their eye movements."
 ---
 
 I co-authored a study on the mobile accessibility challenges faced by mobile app developers on Android and iOS devices. Our research team mined and processed thousands of Stack Overflow posts to answer 3 research questions regarding the state of mobile app accessibility features. The bulk of this study took place over 4 months, after several revisions, the final paper was published in the HICSS conference. Our abstract, method figures, and link to the published paper are provided below.
@@ -24,24 +24,9 @@ The proliferation of mobile applications (apps) has made it crucial to ensure th
 - RQ3: What are the challenges associated with mobile app accessibility development? 
 
 
-Stack Overflow mining method:
+Poster Summary
 <div class="text-center p-4">
-  <img width="500px" src="../img/method_overview-1.png" class="img-thumbnail" >
+  <img width="1500px" src="../img/Justin_Lisoway_699_Plan_B_Poster.png" class="img-thumbnail" >
 </div>
 
-RQ1 Method:
-<div class="text-center p-4">
-  <img width="500px" src="../img/RQ1_procedure-1.png" class="img-thumbnail" >
-</div>
-
-RQ2 Method:
-<div class="text-center p-4">
-  <img width="500px" src="../img/RQ2_procedure-1.png" class="img-thumbnail" >
-</div>
-
-RQ3 Method:
-<div class="text-center p-4">
-  <img width="500px" src="../img/RQ3_procedure-1.png" class="img-thumbnail" >
-</div>
-
-You can also read the published paper [here](https://arxiv.org/pdf/2409.07945).
+You can also read the pre-print paper [here](https://arxiv.org/pdf/2409.07945).
