@@ -52,10 +52,10 @@
 	],
 	"education": [{
 		"institution": "University of Hawaii, Honolulu, HI",
-		"area": "Computer Science (current GPA 4.0)",
+		"area": "Computer Science (GPA 4.0)",
 		"studyType": "Master of Science",
 		"startDate": "2021-09-01",
-		"endDate": "Present",
+		"endDate": "2024-12-15",
 		"courses": ["Algorithms", "Human-Computer Interaction", "Brain-Computer Interfaces", "Mobile Application Development", "Advanced Software Quality Assurance", "Data Science", "Advanced Software Engineering", "Program Structure", "Big Data Analytics", "Network Science", "Advanced Artificial Intelligence", "Advanced Program Comprehension", "Human-Centered AI"]
 	}, {
 		"institution": "Shidler College of Business, Honolulu, HI",
@@ -81,7 +81,7 @@
 	}],
 	"work": [{
 			"company": "Kona Kruzers LLC",
-			"position": "Owner/Manager",
+			"position": "Owner/President",
 			"website": "",
 			"startDate": "2022-01-01",
 			"endDate": "Present",
@@ -92,7 +92,7 @@
 			"position": "Graduate Assistant",
 			"website": "",
 			"startDate": "2024-01-01",
-			"endDate": "Present",
+			"endDate": "2024-12-15",
 			"summary": "Coached, mentored, and otherwise prepared UH Manoa swimmers for their 2024-2025 championship season. Responsibilities included public speaking, writing practices, handling unique professional relationships, resolving human controversy, and exercising leadership qualities."
 		},
 		{
