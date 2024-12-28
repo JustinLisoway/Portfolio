@@ -13,20 +13,19 @@ labels:
 summary: "I am the first author for a paper that will be published about my research exploring the relative efficancy of deep learning and feature engineering on differentiating autism spectrum disorder (ASD) and typically developing (TD) participants based on their eye movements."
 ---
 
-I co-authored a study on the mobile accessibility challenges faced by mobile app developers on Android and iOS devices. Our research team mined and processed thousands of Stack Overflow posts to answer 3 research questions regarding the state of mobile app accessibility features. The bulk of this study took place over 4 months, after several revisions, the final paper was published in the HICSS conference. Our abstract, method figures, and link to the published paper are provided below.
+I led a study that aimed to train a machine learning model to differentiate between ASD and TD eye movements. I pursued feature engineered, deep learning, and hybrid models for the supervised approaches and explored unsupervised methods as well. This study took place over 13 months and involved the use of the high performance computing nodes from the University of Hawaii. The results of this research are promising and the supervised hybird and deep learning models could be used as autism pre-screening tools to more efficiently determine if someone is likely to have autism based on their eye movements. The abstract, poster summary, and link to the pre-print paper are provided below.
 
 Abstract:
 
-The proliferation of mobile applications (apps) has made it crucial to ensure their accessibility for users with disabilities. However, there is a lack of research on the real-world challenges developers face in implementing mobile accessibility features. This study presents a large-scale empirical analysis of accessibility discussions on Stack Overflow to identify the trends and challenges Android and iOS developers face. We examine the growth patterns, characteristics, and common topics mobile developers discuss. Our results show several challenges, including integrating assistive technologies like screen readers, ensuring accessible UI design, supporting text-to-speech across languages, handling complex gestures, and conducting accessibility testing. We envision our findings driving improvements in developer practices, research directions, tool support, and educational resources.
+This study aims to find eye movement differences between individuals with Autism Spectrum Disorder and their Typically Developing peers using advanced Machine Learning techniques. Utilizing a dataset previously recorded using the video-based eye tracker EyeLink 1000 (SR Research, Ottawa, Canada), we compare the performance of supervised and unsupervised ML models in identifying unique gaze patterns that can potentially distinguish individuals with ASD from TD. Our findings reveal that supervised models trained on specific labeled eye movement data achieve moderate accuracy in classification, while unsupervised models fail to uncover distinct groupings based on gaze metrics. This supports ML techniques potential to only detect ASD-related differences with labeled data. The hybrid approach produced the best results, highlighting the importance and value of manual feature extraction and deep learning. These results suggest that the use of ML in combination with eye movement data can enhance ASD screening and potentially aid in diagnosis, offering insights into supervised classification effectiveness.
 
-- RQ1: How have mobile app accessibility questions on Stack Overflow grown over the years? 
-- RQ2: What are the characteristics of mobile app accessibility questions on Stack Overflow? 
-- RQ3: What are the challenges associated with mobile app accessibility development? 
+- RQ1: Can supervised and unsupervised machine learning models help in differentiating eye movements of TD individuals from individuals with ASD?
+- RQ2: Can a hybrid model approach combining feature engineering and end-to-end deep learning improve the detection of ASD-related differences in eye-tracking data compared to ML models that use either feature engineering or deep learning alone?
 
 
-Poster Summary
+Poster Summary:
 <div class="text-center p-4">
   <img width="1500px" src="../img/Justin_Lisoway_699_Plan_B_Poster.png" class="img-thumbnail" >
 </div>
 
-You can also read the pre-print paper [here](https://arxiv.org/pdf/2409.07945).
+You can also read the pre-print paper [here](../img/Lisoway_Research.pdf).
